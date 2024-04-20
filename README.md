@@ -1,1 +1,6 @@
-# banner
+<!--   Author: RIFARA
+       DC invite: ...
+       GitHub: ...
+       Discord: ... -->
+       
+<img src=">
