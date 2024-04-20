@@ -3,4 +3,4 @@
        GitHub: ...
        Discord: ... -->
        
-<img src=">
+<img src="https://raw.githubusercontent.com/RizkyFaisalRafi/banner/main/Banner.png">
